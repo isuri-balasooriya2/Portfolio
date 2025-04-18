@@ -1,4 +1,4 @@
-This project a descriptive data analysis on an E-Commerce sales dataset. 
+This project is a descriptive data analysis on an E-Commerce sales dataset. 
 
 Dataset from Kaggle - https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
