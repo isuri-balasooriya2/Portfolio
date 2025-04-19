@@ -17,7 +17,7 @@ Welcome to my data science portfolio! I'm a Business Analyst transitioning into 
 ### 2. COVID-19 Global Data Analysis
 - Cleaned & visualized real-world data in Python.
 - Explored trends across regions & time.
-- [View Project Folder]([link](https://github.com/isuri-balasooriya2/Portfolio/tree/main/Projects/COVID19_Data_Tracker))
+- [View Project Folder](https://github.com/isuri-balasooriya2/Portfolio/tree/main/Projects/COVID19_Data_Tracker)
 
 ---
 
