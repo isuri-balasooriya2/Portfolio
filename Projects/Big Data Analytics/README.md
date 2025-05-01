@@ -20,6 +20,6 @@ This project analyzes the global impact of COVID-19 using large-scale datasets a
 - Matplotlib / Seaborn
 
 ## 📁 Data Source
-Our World in Data – COVID-19(https://ourworldindata.org/coronavirus-source-data)
+[Our World in Data – COVID-19](https://ourworldindata.org/coronavirus-source-data)
 
 
