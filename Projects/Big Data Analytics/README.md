@@ -10,7 +10,7 @@ This project analyzes the global impact of COVID-19 using large-scale datasets a
 - Vaccination rates
 - Government response (Stringency Index)
 
-###3. Visualize key trends and relationships
+### 3. Visualize key trends and relationships
 
 ## 🛠 Tech Stack
 - Python
