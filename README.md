@@ -22,7 +22,7 @@ Welcome to my data science portfolio! I'm a Business Analyst transitioning into 
 ---
 
 ## 🛢 SQL Projects
-### 1. Formula 1 Insights Analysis
+### 1. Formula 1 Data Analysis
 - Designed and implemented a normalized relational schema for F1 data.
 - Wrote complex SQL queries to answer strategic and performance-based questions.
 - Identified valuable insights and patterns from a big dataset.
