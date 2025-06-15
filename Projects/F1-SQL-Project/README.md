@@ -64,6 +64,5 @@ All SQL queries can be found in the `/queries/` folder.
 
 ---
 
-## 📁 File Structure
 
 
