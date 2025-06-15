@@ -21,6 +21,15 @@ Welcome to my data science portfolio! I'm a Business Analyst transitioning into 
 
 ---
 
+## 🛢 SQL Projects
+### 1. Formula 1 Insights Analysis
+- Designed and implemented a normalized relational schema for F1 data.
+- Wrote complex SQL queries to answer strategic and performance-based questions.
+- Identified valuable insights and patterns from a big dataset.
+- [View Project Folder](https://github.com/isuri-balasooriya2/Portfolio/tree/main/Projects/F1-SQL-Project)
+
+---
+
 ## 📖 Completed Courses
 - [Machine Learning – Andrew Ng (Stanford)](link)
 - [CS50 – Harvard](link)
